@@ -1,0 +1,23 @@
+header{ background-color: #f2d252;
+	padding: 20px 40px;
+	/*if only one value is after padding:, 
+	browser will apply to all directions. 40px 20px will 
+	do 40px for top/bottom and 20px for left/right.*/
+	text-align: center;
+}
+h1{
+	font-size: 90px;
+	color: green;
+}
+
+header img{
+	border-radius: 3px; 
+
+}
+
+/*<header>
+			<img src="img/profile.jpg">
+			<h1>Dr. Katz</h1>
+		</header>*/
+
+
